@@ -1,0 +1,144 @@
+
+{
+    "title": {
+        "media": {
+          "url": "https://drive.google.com/uc?export=view&id=1ym4Xud3VSDcwgvMzvqq6mnEA5GhVfhND"
+        },
+        "text": {
+          "text": "<h3 style='font-size: 35px;'>WERT [베어트] : 서비스 소개서</h3>"
+        }
+    },
+    "events": [
+      {
+        "media": {
+          "url":"https://drive.google.com/uc?export=view&id=18jVJzkfeQH5VL4rQ4JWUQiCErgRLpX1T"
+        },
+        "start_date": {
+          "year": "0",
+          "display_date" : " "
+        },
+        "text": {
+          "headline": "베어트는 가치 있습니다. ",
+          "text": "<p><br>말만 잘하는 챗봇이 아니라 일도 잘하는 챗봇, 어디 없을까요? <br><br>인공지능팩토리의 챗봇이 가치를 강조하는 이유는<br>이제는 더 이상 컴퓨터의 언어가 아닌 우리에게 가장 익숙한 언어로, 우리가 가장 잘하는 대화를 통해 가치 있는 것을 만들어 내기 위해서 입니다.<br><br> 가치를 만들어내는 협업툴, WERT[베어트]를 만나보세요.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://drive.google.com/uc?export=view&id=1nYEdJloRgEpMgGCio57UZ7S694Lj0LfZ"
+        },
+        "start_date": {
+          "year": "300",
+          "display_date" : " "
+        },
+        "text": {
+          "headline": "WERT 유형 ",
+          "text": "<br><p>내가 필요한 일을 나보다 더 빠르고 정확하게 하는 챗봇이라니,<br>생각보다 더 대단하지 않나요? ☺</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://drive.google.com/uc?export=view&id=1Pa9eriy6XG0I_3OyU8RIIBTWv2AA1IKg"
+        },
+        "start_date": {
+          "year": "600",
+          "display_date" : " "
+        },
+        "text": {
+          "headline": "WERT는 이렇게 작동합니다",
+          "text": "<br><p>WERT는 인공지능팩토리 플랫폼에 탑재되어 있는 기술로, 복잡<br>한 소프트웨어 설치 없이 바로 사용할 수 있어요!<br><br>챗봇의 종류에 따라 어떻게 동작하는지 알아보세요.</p>"
+         }
+      },
+      {
+        "media": {
+          "url": "https://drive.google.com/uc?export=view&id=10C9jFMVrgg1FCEABBMrlBivhXjEOmvMG"
+        },
+        "start_date": {
+          "year": "900",
+          "display_date" : " "
+        },
+        "text": {
+          "headline": "지식기반챗봇",
+          "text": "<br><p>챗지피티는 훌룡하지만 안타깝게도 약간의 허언증(다른 말로는<br>할루시네이션 현상)이 있어요..! 이 경우 챗봇의  정보를 믿기 어<br>렵다는 치명적인 단점이 생기죠.<br><br>지식기반 챗봇은 이를 보완해 오로지 데이터베이스에 의거한 답<br>변만을 출력하게끔 동작합니다. </p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://drive.google.com/uc?export=view&id=1HGURAITi909CAfqa0gt8Nv4-AFvewzZ7"
+        },
+        "start_date": {
+          "year": "1200",
+          "display_date" : " "
+        },
+        "text": {
+          "headline": "태스크 연동 챗봇",
+          "text": "<br><p style='font-size : 15px;'>업무에 필요한 툴을 알아서 잘 딱 찾아 사용하는 챗봇이 여기 있습니다 ☺<br><br>인공지능팩토리 플랫폼에 있는 다양한 AI 모델을 연동하거나 이미 갖고<br>계신 모델/ 툴이 있다면 챗봇과 연동해 업무를 수행해보세요.<br><br>훨씬 빠른 일처리가 가능할거예요!</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://drive.google.com/uc?export=view&id=1-5HE3UljtH918BrurQ0Zv8j4NtoRCE-Y"
+        },
+        "start_date": {
+          "year": "1500",
+          "display_date" : " "
+        },
+        "text": {
+          "headline": "리포트 생성 챗봇",
+          "text": "<br><p>매번 똑같은 양식을 지키며 써야 하는 보고서, 또는 뉴스레터에<br>고통받지 마세요! 보고서 작성에 필요한 정보를 넣어주고 결과물을<br>바로 받아 보실 수 있습니다.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://drive.google.com/uc?export=view&id=14WvKGswyEm_RW-sSam72ek5Rrpa6S_Pj"
+        },
+        "start_date": {
+          "year": "1800",
+          "display_date" : " "
+        },
+        "text": {
+          "headline": "서비스 특장점 및 활용 사례",
+          "text": "<h3 style='font-size: 20px;'>: 지식기반 챗봇</h3><p>지식기반 챗봇은 이렇게 사용할 수 있습니다 </p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://drive.google.com/uc?export=view&id=1Kukft9V4liApUbp7lwZanN2jTN_VWmcd"
+        },
+        "start_date": {
+          "year": "2100",
+          "display_date" : " "
+        },
+        "text": {
+          "headline": "서비스 특장점 및 활용 사례",
+          "text": "<h3 style='font-size: 20px;'>: 태스크 연동 챗봇</h3><p>태스크 연동 챗봇은 이렇게 사용할 수 있습니다 </p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://drive.google.com/uc?export=view&id=1WIqZelwZVOu0d1fXvROy9yoEHGkINq-l",
+          "caption": "Antarctica (<a target=\"_blank\" href=''>credits</a>)"
+        },
+        "start_date": {
+          "year": "2400",
+          "display_date" : " "
+        },
+        "text": {
+          "headline": "서비스 특장점 및 활용 사례",
+          "text": "<h3 style='font-size: 20px;'>: 리포트 생성 챗봇</h3><p>리포트 생성 챗봇은 이렇게 사용할 수 있습니다 </p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://drive.google.com/uc?export=view&id=14R6SCPGCzAd3ongYXe-GQcJugyiytDKk"
+        },
+        "start_date": {
+          "year": "2700",
+          "display_date" : " "
+        },
+        "text": {
+          "text": "<p style='font-weight: bold'>더욱 상세한 상담을 원하시면 인공지능팩토리로 연락해주세요 ☺<br><br><a href='https://aifactory.space/page/wert/chat'> ➡️ 챗봇 테스트 하러 가기 </a></p>"
+        }
+      }
+
+    ]
+}
