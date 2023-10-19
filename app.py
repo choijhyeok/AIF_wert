@@ -2,7 +2,7 @@ import streamlit as st
 import streamlit.components.v1 as components
 
 
-st.set_page_config(page_title="HashTrip",initial_sidebar_state="collapsed",layout="wide")
+st.set_page_config(page_title="WERT",initial_sidebar_state="collapsed",layout="wide")
 st.markdown(
     """
 <style>
